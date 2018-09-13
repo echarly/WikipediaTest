@@ -1,0 +1,9 @@
+C:\Users\chernandez\Documents\Selenium\API.Automation\WikipediaTest\WikipediaTest\bin\Debug\WikipediaTest.dll
+C:\Users\chernandez\Documents\Selenium\API.Automation\WikipediaTest\WikipediaTest\bin\Debug\WikipediaTest.pdb
+C:\Users\chernandez\Documents\Selenium\API.Automation\WikipediaTest\WikipediaTest\bin\Debug\WebDriver.dll
+C:\Users\chernandez\Documents\Selenium\API.Automation\WikipediaTest\WikipediaTest\bin\Debug\WebDriver.Support.dll
+C:\Users\chernandez\Documents\Selenium\API.Automation\WikipediaTest\WikipediaTest\bin\Debug\WebDriver.xml
+C:\Users\chernandez\Documents\Selenium\API.Automation\WikipediaTest\WikipediaTest\bin\Debug\WebDriver.Support.xml
+C:\Users\chernandez\Documents\Selenium\API.Automation\WikipediaTest\WikipediaTest\obj\Debug\WikipediaTest.csprojResolveAssemblyReference.cache
+C:\Users\chernandez\Documents\Selenium\API.Automation\WikipediaTest\WikipediaTest\obj\Debug\WikipediaTest.dll
+C:\Users\chernandez\Documents\Selenium\API.Automation\WikipediaTest\WikipediaTest\obj\Debug\WikipediaTest.pdb
